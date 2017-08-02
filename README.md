@@ -5,7 +5,6 @@ This is a starter template for Vala applications, that comes with meson set up. 
 ## Build instructions:
 
 ```Bash
-$ mkdir build
 $ meson build
 $ ninja -C build
 $ build/app
